@@ -1,6 +1,8 @@
 # Hello. 
 
-Welcome to my Github page. My name is Sawyer. I am a student studying software engineering at California State University San Marcos.
+Welcome to my Github page.
+
+My name is Sawyer. I am a student studying software engineering at California State University San Marcos.
 
 I enjoy learning, exploring, and collaborating with others.
 
