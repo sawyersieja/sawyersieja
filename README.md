@@ -10,9 +10,9 @@ Let's work together and build some cool stuff! 🛠️
 
 
 **Some of the things that interest me:**
-+ 🖥️: Software engineering
++ 🖥️ Software engineering
 + 🗣️ Communication
-+ 🪙 Web3
++ 🤓: Web3
 + 🚩 Cybersecurity
 + 🤙 Helping people. 
 
