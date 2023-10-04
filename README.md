@@ -23,9 +23,10 @@ Let's work together and build some cool stuff! 🛠️
 + 🏆 HackFS2022 - Awarded $5,000 microgrant
 
 #### **Languages:**
-+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>C++
++ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>C++
 + JavaScript
-+ Solidity
++ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40" />Solidity
 + HTML
 + CSS
 + MIPS Assembly
