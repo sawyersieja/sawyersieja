@@ -23,7 +23,7 @@ Let's work together and build some cool stuff! 🛠️
 + 🏆 HackFS2022 - Awarded $5,000 microgrant
 
 #### **Languages:**
-+ C++ <i class="devicon-cplusplus-plain"></i>
++ C++ <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 + JavaScript
 + Solidity
 + HTML
