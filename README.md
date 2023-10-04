@@ -2,18 +2,18 @@
 
 😄 Welcome to my Github page.
 
-My name is Sawyer. I am a student 👨‍🎓 studying software engineering 💻 at California State University San Marcos 🏫.
+My name is Sawyer. I am a student 👨‍🎓 studying software engineering 👨‍💻 at California State University San Marcos 🏫.
 
-I enjoy learning 🧠 exploring 🧭 and collaborating with others 🤝.
+I enjoy learning 🧠,  exploring 🧭, and succeeding in team based environments 🤝.
 
 Let's work together and build some cool stuff! 🛠️
 
 
 **Some of the things that interest me:**
 + 🖥️ Software engineering
-+ 🗣️ Communication
-+ 🤓: Web3
-+ 🚩 Cybersecurity
++ 💬 Communication
++ 🔑: Web3
++ 🛡️ Cybersecurity
 + 🤙 Helping people. 
 
 
