@@ -2,6 +2,7 @@
 
 I am a student studying software engineering.
 I enjoy learning, exploring, and collaborating with others.
+Let's work together and make some cool stuff.
 
 **Career interests**
 + Software engineering
