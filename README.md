@@ -4,11 +4,11 @@ I am a student studying software engineering.
 I enjoy learning, exploring, and collaborating with others.
 
 **Career interests**
-* Software engineering
-* Communication
-* Web3
-* Cybersecurity
-* Helping people. 
++ Software engineering
++ Communication
++ Web3
++ Cybersecurity
++ Helping people. 
 
 
 
