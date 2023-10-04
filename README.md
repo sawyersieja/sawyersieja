@@ -30,11 +30,11 @@ Let's work together and build some cool stuff! 🛠️
 + CSS
 + MIPS Assembly
 
-### **Frameworks:**
+#### **Frameworks:**
 Hardhat, Brownie
 
-### **Developer tools:**
+#### **Developer tools:**
 Git, Github, Jira, Figma, Visual Studio Code
 
-### **Libraries:**
+#### **Libraries:**
 React, Redux, ethers.js, MUI
