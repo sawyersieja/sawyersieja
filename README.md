@@ -9,7 +9,7 @@ I enjoy learning, exploring, and collaborating with others.
 Let's work together and build some cool stuff!
 
 
-**Career areas of interests**
+**Some of the things that interest me**
 + Software engineering
 + Communication
 + Web3
@@ -31,11 +31,10 @@ Let's work together and build some cool stuff!
 + MIPS Assembly
 
 **Frameworks**
-+ Hardhat
-+ Brownie
+Hardhat, Brownie
 
 **Developer tools**
 Git, Github, Jira, Figma, Visual Studio Code
 
-* **Libraries**
+**Libraries**
 React, Redux, ethers.js, MUI
