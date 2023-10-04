@@ -4,18 +4,18 @@ I am a student studying software engineering. I enjoy learning, exploring, and c
 
 I have career interests in software engineering, cybersecurity, communication, web3, and helping people. 
 
-**Achievements**
+* **Achievements**
 Not Another Virtual Hackathon 2023 - Winner $1,500
 HackFS2022 - Awarded $5,000 microgrant
 
-**Languages**
+* **Languages**
 C++, JavaScript, Solidity, HTML, CSS, MIPS Assembly
 
-**Frameworks**
+* **Frameworks**
 Hardhat, Brownie
 
-**Developer tools**
+* **Developer tools**
 Git, Github, Jira, Figma, Visual Studio Code
 
-**Libraries**
+* **Libraries**
 React, Redux, ethers.js, MUI
