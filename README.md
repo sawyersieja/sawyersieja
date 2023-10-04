@@ -1,4 +1,6 @@
-# Hello. My name is Sawyer. Welcome to my Github page.
+# Hello. 
+
+My name is Sawyer. Welcome to my Github page.
 
 I am a student studying software engineering.
 
