@@ -6,7 +6,7 @@ My name is Sawyer. I am a student studying software engineering at California St
 
 I enjoy learning, exploring, and collaborating with others.
 
-Let's work together and build some cool stuff.
+Let's work together and build some cool stuff!
 
 
 **Career areas of interests**
