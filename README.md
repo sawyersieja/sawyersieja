@@ -1,8 +1,14 @@
 # Hello. My name is Sawyer. Welcome to my Github page.
 
-I am a student studying software engineering. I enjoy learning, exploring, and collaborating with others.
+I am a student studying software engineering.
+I enjoy learning, exploring, and collaborating with others.
 
-I have career interests in software engineering, cybersecurity, communication, web3, and helping people. 
+**Career interests**
+* Software engineering
+* Communication
+* Web3
+* Cybersecurity
+* Helping people. 
 
 
 
