@@ -4,7 +4,7 @@
 
 My name is Sawyer. I am a student 👨‍🎓 studying software engineering 👨‍💻 at California State University San Marcos 🐾.
 
-I enjoy learning 🧠,  exploring 🧭, and synergizing with teammates 🤝.
+I enjoy learning 🧠,  exploring 🗺️, and synergizing with teammates 🤝.
 
 Let's work together and build some cool stuff! 🛠️
 
