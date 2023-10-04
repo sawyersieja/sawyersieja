@@ -7,7 +7,7 @@ I enjoy learning, exploring, and collaborating with others.
 Let's work together and build some cool stuff.
 
 
-**Career interests**
+**Career areas of interests**
 + Software engineering
 + Communication
 + Web3
