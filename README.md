@@ -12,17 +12,23 @@ I enjoy learning, exploring, and collaborating with others.
 
 
 
-* **Achievements**
-Not Another Virtual Hackathon 2023 - Winner $1,500
-HackFS2022 - Awarded $5,000 microgrant
+**Achievements**
++ Not Another Virtual Hackathon 2023 - Winner $1,500
++ HackFS2022 - Awarded $5,000 microgrant
 
-* **Languages**
-C++, JavaScript, Solidity, HTML, CSS, MIPS Assembly
+**Languages**
++ C++
++ JavaScript
++ Solidity
++ HTML
++ CSS
++ MIPS Assembly
 
-* **Frameworks**
-Hardhat, Brownie
+**Frameworks**
++ Hardhat
++ Brownie
 
-* **Developer tools**
+**Developer tools**
 Git, Github, Jira, Figma, Visual Studio Code
 
 * **Libraries**
