@@ -4,7 +4,7 @@
 + 📖 Learning software engineering, cybersecurity, and web3.
 + 📢 Helping CSU San Marcos cybersecurity club as Executive Assistant, and ACM club with student involvement.
 + 🏆 Winner $1,500 - Not Another Virtual Hackathon 2023.
-+ 🏅 Awarded $5,000 microgrant - HackFS2022.
++ 🏅 Awarded $5,000 grant - HackFS2022.
 
 ### **Languages:**
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg" alt="C" width="64" height="64"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="64" height="64"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="64" height="64" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML" width="64" height="64" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="64" height="64" /><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original-wordmark.svg" alt="Java" width="64" height="64"/><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="64" height="64"/><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/solidity/solidity-original.svg" alt="Solidity" width="64" height="64" />
