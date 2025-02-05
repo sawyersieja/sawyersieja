@@ -2,7 +2,7 @@
 
 + 🖥️ I am Sawyer, a software engineering student, consultant and lifelong learner.
 + 📖 Learning software engineering, cybersecurity, and web3.
-+ 📢 Helping CSU San Marcos cybersecurity club as Executive Assistant, and ACM club with student involvement.
++ 📢 Helping CSU San Marcos cybersecurity club as Vice President, and ACM club with student involvement.
 + 🏆 Winner $1,500 - Not Another Virtual Hackathon 2023.
 + 🏅 Awarded $5,000 grant - HackFS2022.
 
