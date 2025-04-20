@@ -35,6 +35,8 @@ I'm **Sawyer Sieja**, a software engineer passionate about cybersecurity, Web3, 
 
 ### **Explored / Dabbled In**
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="64" height="64" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="64" height="64" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg" alt="C" width="64" height="64"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/solidity/solidity-original.svg" alt="Solidity" width="64" height="64" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="64" height="64"/>
