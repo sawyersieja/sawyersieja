@@ -4,7 +4,7 @@
 + 🛠️ I focus on full-stack development, networking, encryption, and building scalable, high-performance systems that are built to last.
 + 📢 Helping CSU San Marcos cybersecurity club as Vice President, and ACM club with student involvement.
 + 🏆 Winner $1,500 - Not Another Virtual Hackathon 2023.
-+ 🏅 Awarded $5,000 grant - HackFS2022.
++ 🏅 Grant offer - HackFS2022.
 + 🌐 Check out my website: [sawyersieja.com](https://sawyersieja.com)
 
 ### **Languages:**
