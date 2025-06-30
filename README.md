@@ -1,6 +1,6 @@
 # 👋 Welcome! 
 
-I'm **Sawyer Sieja**, a software engineer passionate about cybersecurity, Web3, and secure application development. I focus on full-stack development, networking, encryption, and building **scalable**, **high-performance** systems that are **built to last**.
+I'm **Sawyer Sieja**, a software engineer passionate about full-stack development, cybersecurity, and blockchain. I think the internet is fascinating, and am working to create digital ecosystems that improve user-experiences and capabilities.
 
 - 🛡️ Vice President of the CSU San Marcos Cybersecurity Club, and ACM Club Officer
 - 🏆 Winner - *Not Another Virtual Hackathon 2023*
