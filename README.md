@@ -12,7 +12,7 @@ I'm **Sawyer Sieja**, a software engineer passionate about full-stack developmen
 
 ### 💻 Tech Stack
 
-<div align="center">
+<div>
 
 
 Right now, I prefer HTML, CSS/Tailwind, JavaScript, React, Next.js, Node.js, SQL, Python, C++, and Java.
