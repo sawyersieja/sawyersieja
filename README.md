@@ -17,7 +17,7 @@ I'm **Sawyer Sieja**, a software engineer passionate about full-stack developmen
 
 Right now, I prefer HTML, CSS/Tailwind, JavaScript, React, Next.js, Node.js, SQL, Python, C++, and Java.
 
-As a full-stack developer,I'm familiar with most other languages, libraries, frameworks, and tools. If I don't know something I can learn it pretty quickly.
+As a full-stack developer, I'm familiar with most other languages, libraries, frameworks, and tools. If I don't know something I can learn it pretty quickly.
 
 I've been leaning towards vanilla stuff lately for nostalgia purposes and to avoid dependency hell and all of the security vulnerabilities that come with it.
 
