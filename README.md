@@ -5,7 +5,7 @@ I’m a software engineering graduate interested in full-stack development, back
 I like building functional software, learning how systems fit together, and creating digital tools that improve how people interact with technology. I’m currently looking for entry-level software engineering, backend, full-stack, applied AI, or developer-tooling roles.
 
 
-* 🛜 MACH Networks internship completed — Feb - May 2026
+* 🛜 MACH Networks internship — Feb - May 2026
 * 🎓 B.S. in Software Engineering, California State University San Marcos — May 2026
 * 🤖 Built an AI X-ray Chatbot for Creative Electron — Aug - May 2026
 * 🦆 Selected for the Summer and Fall 2025 DxHub/AWS AI Camps at Cal Poly SLO and SDSU
