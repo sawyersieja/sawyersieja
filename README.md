@@ -5,14 +5,14 @@ I’m a software engineering graduate interested in full-stack development, back
 I like building functional software, learning how systems fit together, and creating digital tools that improve how people interact with technology. I’m currently looking for entry-level software engineering, backend, full-stack, applied AI, or developer-tooling roles.
 
 
-* 🛜 MACH Networks internship (*February – May 2026*)
-* 🎓 B.S. in Software Engineering, California State University San Marcos (*May 2026*)
-* 🤖 Built an X-ray AI Chatbot for Creative Electron (*Aug 2025 - May 2026*)
-* 🦆 Selected for DxHub/AWS AI Camps at Cal Poly SLO and SDSU (*Summer and Fall 2025*)
-* 🛡️ Former Vice President of the CSUSM Cybersecurity Club and ACM member
-* 🏆 Winner — Not Another Virtual Hackathon (*2023*)
-* 🏅 Grant recipient — HackFS (*2022*)
-* 🌐 [sawyersieja.com](https://sawyersieja.com)
+* 🛜 **MACH Networks internship** (*February – May 2026*)
+* 🎓 **B.S. in Software Engineering**, California State University San Marcos (*May 2026*)
+* 🤖 **Built an X-ray AI Chatbot** for Creative Electron (*Aug 2025 - May 2026*)
+* 🦆 **Selected for scholarship to attend DxHub/AWS AI Camps** at Cal Poly SLO and SDSU (*Summer and Fall 2025*)
+* 🛡️ **Former Vice President**, CSUSM Cybersecurity Club; ACM member
+* 🏆 **Winner**, Not Another Virtual Hackathon (*2023*)
+* 🏅 **Grant recipient**, HackFS (*2022*)
+* 🌐 **Website:** [sawyersieja.com](https://sawyersieja.com)
 
 ---
 
