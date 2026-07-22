@@ -9,6 +9,7 @@ I like building functional software, learning how systems fit together, and crea
 * 🎓 **B.S. in Software Engineering**, California State University San Marcos (*May 2026*)
 * 🤖 **Built an X-ray AI Chatbot** for Creative Electron (*Aug 2025 - May 2026*)
 * 🦆 **Awarded scholarship to attend DxHub/AWS AI Camps** at Cal Poly SLO and SDSU (*Summer and Fall 2025*)
+* 🧑‍🏫 **Student Assistant III**, CSUSM CSTEM AI Summer Camp (*June 2025*)
 * 🛡️ **Former Vice President**, CSUSM Cybersecurity Club; ACM member
 * 🏆 **Winner**, Not Another Virtual Hackathon (*2023*)
 * 🏅 **Grant recipient**, HackFS (*2022*)
