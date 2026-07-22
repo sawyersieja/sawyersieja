@@ -2,7 +2,7 @@
 
 I’m a software engineering graduate interested in full-stack development, backend systems, networking, cybersecurity, and applied AI.
 
-I like building functional software, learning how systems fit together, and creating digital tools that improve how people interact with technology. I’m currently looking for entry-level software engineering, backend, full-stack, applied AI, or developer-tooling roles.
+I like building functional software, learning how systems fit together, and creating digital tools that improve how people interact with technology. I’m currently looking for entry-level software engineering, cybersecurity, and applied AI opportunities.
 
 
 * 🛜 **MACH Networks internship** (*February – May 2026*)
