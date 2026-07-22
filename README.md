@@ -21,11 +21,11 @@ I like building functional software, learning how systems fit together, and crea
 
 ### Languages and fundamentals
 
-`Python` `C++` `Java` `JavaScript` `TypeScript` `PHP` `HTML` `CSS` `SQL`
+`Python` `C++` `Java` `HTML` `CSS` `JavaScript` `TypeScript` `PHP` `SQL`
 
 ### Tools and project experience
 
-`PostgreSQL` `React` `Next.js` `Node.js` `AWS` `Amazon Bedrock` `Git` `Linux` `Solidity` `Godot` `Blender`
+`React` `Next.js` `Node.js` `PostgreSQL` `AWS` `Amazon Bedrock` `Git` `Linux` `Solidity` `Godot` `Blender`
 
 My broader experience also includes networking, application security, blockchain development, databases, cloud services, and AI-assisted software development.
 
