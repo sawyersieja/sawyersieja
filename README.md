@@ -1,27 +1,37 @@
-# 👋 Welcome! 
+# 👋 Hey, I’m Sawyer Sieja
 
-I'm **Sawyer Sieja**, a software engineer passionate about full-stack development, cybersecurity, blockchain, and AI. I think the internet is fascinating, and am working to create digital ecosystems that improve user-experiences and capabilities.
+I’m a software engineering graduate interested in full-stack development, backend systems, networking, cybersecurity, and applied AI.
 
-- 🦆 Selected for Summer 2025 Cal Poly SLO DxHub/AWS AI Camp 
-- 🛡️ Former CSUSM ACM and Cybersecurity Club leadership.
-- 🏆 Winner - *Not Another Virtual Hackathon 2023*
-- 🏅 Grant Recipient - *HackFS2022*
-- 🌐 Check out my website: [sawyersieja.com](https://sawyersieja.com)
+I like building functional software, learning how systems fit together, and creating digital tools that improve how people interact with technology. I’m currently looking for entry-level software engineering, backend, full-stack, applied AI, or developer-tooling roles.
+
+* 🎓 B.S. in Software Engineering, California State University San Marcos — May 2026
+* 🦆 Selected for the Summer and Fall 2025 DxHub/AWS AI Camps at Cal Poly SLO and SDSU
+* 🛡️ Former Vice President of the CSUSM Cybersecurity Club and ACM member
+* 🏆 Winner — Not Another Virtual Hackathon 2023
+* 🏅 Grant recipient — HackFS 2022
+* 🌐 [sawyersieja.com](https://sawyersieja.com)
 
 ---
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
-<div>
+### Languages and fundamentals
 
+`Python` `C++` `Java` `JavaScript` `TypeScript` `PHP` `HTML` `CSS` `SQL`
 
-Right now, I prefer HTML, CSS/Tailwind, JavaScript, React, Next.js, Node.js, SQL, Python, C++, and Java.
+### Tools and project experience
 
-As a full-stack developer, I'm familiar with most other languages, libraries, frameworks, and tools. If I don't know something I can learn it pretty quickly.
+`PostgreSQL` `React` `Next.js` `Node.js` `AWS` `Amazon Bedrock` `Git` `Linux` `Solidity` `Godot` `Blender`
 
-I've been leaning towards vanilla stuff lately for nostalgia purposes and to avoid dependency hell and all of the security vulnerabilities that come with it.
+My broader experience also includes networking, application security, blockchain development, databases, cloud services, and AI-assisted software development.
 
-</div>
+### 🤖 AI-Assisted Development
+
+I use Codex and generative AI to accelerate implementation, debugging, research, and iteration while remaining responsible for understanding the system, reviewing changes, testing behavior, and making technical decisions.
+
+### 🧱 Current Preferences
+
+Lately, I’ve been leaning toward simpler and more vanilla technology stacks—partly for nostalgia, but mostly to reduce unnecessary dependencies, security risk, and dependency hell.
 
 
 
